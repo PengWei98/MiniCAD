@@ -1,7 +1,7 @@
 # MiniCAD
 MiniCAD in Java, Swing.
 
-##java version:10.0.2
+## java version:10.0.2
 
 When compiling, please input "javac *.java" in terminal.
 
